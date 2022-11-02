@@ -1,4 +1,4 @@
-Day 2 - Checkpoint 1
+[Day 2 - Checkpoint 1](https://www.hackingwithswift.com/quick-start/beginners/checkpoint-1)
 
 ```swift
 import Cocoa
