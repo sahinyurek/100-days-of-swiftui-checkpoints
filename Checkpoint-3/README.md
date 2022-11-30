@@ -1,4 +1,4 @@
-[Day 4 - Checkpoint 3](https://www.hackingwithswift.com/quick-start/beginners/checkpoint-3)
+[Day 6 - Checkpoint 3](https://www.hackingwithswift.com/quick-start/beginners/checkpoint-3)
 
 ```swift
 import Cocoa
